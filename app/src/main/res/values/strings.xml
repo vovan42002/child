@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">parental dozor</string>
+    <string name="app_login">Login</string>
+    <string name="app_name_big">Parental dozor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Caring Parents</string>
+    <string name="nav_header_subtitle">vovabogdan4@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">Домашняя</string>
+    <string name="menu_gallery">Галлерея</string>
+    <string name="menu_slideshow">Слайдшоу</string>
+
+
+    <string name="text_bottom">Войдите в свою учётную запись!</string>
+    <string name="sign">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+
+
+    <string name="text_info">После входа приложение будет работать в фоне, будет передавать местоположение и активность в приложениях</string>
+    <string name="use_time">use time</string>
+
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="app_name_label">App</string>
+    <string name="last_time_used_label">Last time used</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label">Usage time</string>
+
+
+    <string name="main_text">
+        Данное приложение считывает активность на телефоне каждые 15 минут и отправляет их на удалённый сервер. Приложение будет работать в фоноыом режиме
+    </string>
+</resources>
